@@ -1,1 +1,21 @@
 #include <iostream>
+using namespace std;
+
+int SEC(p1,p2,...,pn){
+    let p1,p2,...,pn be a random permutation of pi s;
+    D2=smallest circle containing p1&p2;
+    for (size_t i = 3; i < n; i++)
+    {
+        if ()
+        {
+            /* code */
+        }
+        
+    }
+    
+
+}
+
+int main(){
+
+}
